@@ -1,0 +1,18 @@
+.blog__nav{
+    margin-bottom: 82px;
+    a{
+        padding: 12px 24px 14px ;
+        @include link-hover{
+            background-color: $primary-color;
+        }
+        @include pc-1024{
+            padding: 16px;
+        }
+    }
+   
+}
+.blog{
+    @include phone-576{
+        margin-top: 24px;
+    }
+}
