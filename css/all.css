@@ -1222,7 +1222,7 @@ input:focus, textarea:focus {
       margin-right: 24px; } }
 
 .banner {
-  background: url(../../images/banner.png) no-repeat center center;
+  background: url(../images/banner.png) no-repeat center center;
   background-size: cover;
   height: 840px; }
   .banner span {
@@ -1277,7 +1277,7 @@ input:focus, textarea:focus {
   width: 48px;
   height: 48px;
   display: inline-block;
-  background: url(../../images/icon-diamond.svg) no-repeat center;
+  background: url(../images/icon-diamond.svg) no-repeat center;
   background-size: contain;
   margin-right: 8px;
   vertical-align: bottom; }
@@ -1287,7 +1287,7 @@ input:focus, textarea:focus {
       height: 32px; } }
   @media (max-width: 576px) {
     .series__item h3::before {
-      background: url(../../images/icon-diamond-white.svg) no-repeat center;
+      background: url(../images/icon-diamond-white.svg) no-repeat center;
       background-size: contain; } }
 
 .series__item:nth-child(2) h3::before {
@@ -1295,7 +1295,7 @@ input:focus, textarea:focus {
   width: 48px;
   height: 48px;
   display: inline-block;
-  background: url(../../images/icon-sun.svg) no-repeat center;
+  background: url(../images/icon-sun.svg) no-repeat center;
   background-size: contain; }
   @media (max-width: 1024px) {
     .series__item:nth-child(2) h3::before {
@@ -1303,7 +1303,7 @@ input:focus, textarea:focus {
       height: 32px; } }
   @media (max-width: 576px) {
     .series__item:nth-child(2) h3::before {
-      background: url(../../images/icon-sun-white.svg) no-repeat center;
+      background: url(../images/icon-sun-white.svg) no-repeat center;
       background-size: contain; } }
 
 .series__item:nth-child(3) h3::before {
@@ -1311,7 +1311,7 @@ input:focus, textarea:focus {
   width: 48px;
   height: 48px;
   display: inline-block;
-  background: url(../../images/icon-thunder.svg) no-repeat center;
+  background: url(../images/icon-thunder.svg) no-repeat center;
   background-size: contain; }
   @media (max-width: 1024px) {
     .series__item:nth-child(3) h3::before {
@@ -1319,11 +1319,11 @@ input:focus, textarea:focus {
       height: 32px; } }
   @media (max-width: 576px) {
     .series__item:nth-child(3) h3::before {
-      background: url(../../images/icon-thunder-white.svg) no-repeat center;
+      background: url(../images/icon-thunder-white.svg) no-repeat center;
       background-size: contain; } }
 
 .design {
-  background: url(../../images/bg.png) no-repeat center;
+  background: url(../images/bg.png) no-repeat center;
   background-size: cover; }
 
 .design__item {
@@ -1413,10 +1413,10 @@ input:focus, textarea:focus {
 .optical_banner li {
   height: 309px; }
   .optical_banner li:first-child {
-    background: url(../../images/banner-1.png) no-repeat center;
+    background: url(../images/banner-1.png) no-repeat center;
     background-size: cover; }
   .optical_banner li:nth-child(2) {
-    background: url(../../images/banner-2.png) no-repeat center;
+    background: url(../images/banner-2.png) no-repeat center;
     background-size: cover; }
   @media (max-width: 576px) {
     .optical_banner li {
@@ -1425,17 +1425,17 @@ input:focus, textarea:focus {
 .sun_banner li {
   height: 309px; }
   .sun_banner li:first-child {
-    background: url(../../images/banner-3.png) no-repeat center;
+    background: url(../images/banner-3.png) no-repeat center;
     background-size: cover; }
   .sun_banner li:nth-child(2) {
-    background: url(../../images/product-2-color.png) no-repeat center;
+    background: url(../images/product-2-color.png) no-repeat center;
     background-size: cover; }
   @media (max-width: 576px) {
     .sun_banner li {
       height: 144px; } }
 
 .banner__inner {
-  background: url(../../images/qa.png) no-repeat center;
+  background: url(../images/qa.png) no-repeat center;
   background-size: cover;
   height: 304px; }
   @media (max-width: 576px) {
